@@ -1,4 +1,4 @@
-# K-VECHICLE
+# K-Vehicle
 The goal of the project was to create a vehicle that can autonomously navigate through a series of waypoints (GPS coordinates) while avoiding any obstacles it encounters along the way.
 My robot is a mobile platform of any kind of exploration robot so that it can
 navigates through designated waypoints while trying to avoid obstacles. And
